@@ -1,2 +1,2 @@
 # Mini-Projects
- All my mini projects
+ Here are all my simple, mini projects 
